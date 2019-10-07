@@ -64,7 +64,7 @@ export default {
   }
 
   &__window {
-    position: absolute;
+    position: fixed;
     top: 10%;
     left: 50%;
     transform: translateX(-50%);

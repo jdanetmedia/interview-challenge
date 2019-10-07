@@ -166,7 +166,7 @@ p {
 }
 
 .o-result {
-  position: absolute;
+  position: fixed;
   top: 50%;
   left: 50%;
   width: 90%;
@@ -184,7 +184,7 @@ p {
 
   &:before {
     content: "";
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
@@ -197,7 +197,7 @@ p {
 }
 
 .o-overlay {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   right: 0;
