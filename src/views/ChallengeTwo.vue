@@ -1,7 +1,7 @@
 <template>
   <transition name="start" mode="in-out" v-if="prevGone">
     <div class="challenge-two">
-      <h1>Challenge Two</h1>
+      <h1>Challenge #2</h1>
       <p>Write a function that, given a non-empty zero-indexed array A, returns the value of the maximal product of any triplet.</p>
       <div class="o-task">
         <strong>For example, given array A such that: [-3, 1, 2, -2, 5, 6]</strong>
